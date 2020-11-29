@@ -4,7 +4,8 @@
   <li> Vuetify was used for front end </li>
   <li> Firebase used as backend which stores the mesasges sent by user and displays them </li>
  </ul>
-## Project setup
+ 
+# Project setup
 ```
 npm install
 ```

@@ -1,5 +1,9 @@
 # vue-chat
-
+<ul>
+  <li> It is a realtime chat application created using Vue.js</li>
+  <li> Vuetify was used for front end </li>
+  <li> Firebase used as backend which stores the mesasges sent by user and displays them </li>
+ </ul>
 ## Project setup
 ```
 npm install
